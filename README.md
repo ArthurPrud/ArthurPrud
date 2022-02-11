@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Arthur Prudencio
+- 👀 Estou interessado em ingressar no mercado de Tecnologia da Informação
+- 🌱 Atualmente cursando Analise e Desenvolvimento de sistemas, com previsão de conclusão para Dez/2023
+- 📫 Se quiser me encontrar veja meu Linkedin - https://www.linkedin.com/in/arthurpr/
